@@ -1,57 +1,35 @@
-# NexCore Technologies
+Stetup License v1.0
+Copyright (c) 2025 Jake "Stetup"
 
-**NexCore Technologies** is a software development company dedicated to creating safe, fun, and educational apps for kids. Our mission is to empower young minds with intuitive, engaging, and creativity-driven technology experiences.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+copy, modify, merge, publish, and distribute copies of the Software, subject
+to the following conditions:
 
----
+1. No Commercial Sales
+   - Selling copies of the Software, or modified versions thereof, is strictly prohibited.
+   - The Software must remain free and publicly accessible to all users.
 
-## 🚀 What We Do
+2. Forking and Contributions
+   - Forking and creating derivative works are permitted, provided that:
+     - All forks, modifications, or derivative works are made publicly available.
+     - Contributions and improvements to the original Software must be submitted via pull requests to the upstream repository when possible.
 
-At NexCore, we develop:
-- 📱 **Mobile Apps** for creativity, learning, and productivity
-- 🎮 **Games** designed to entertain while promoting critical thinking and skill development
-- 🌐 **Web Applications** for collaborative, educational, and creative experiences
-- 🛠️ **Developer Tools** made for young coders and creators
+3. Preservation of License
+   - This license and copyright notice shall be included in all copies
+     or substantial portions of the Software.
 
----
-
-## 📦 Current Projects
-
-- **NexCore IDE** — A beginner-friendly mobile code editor.
-- **NexCore Learning Hub** — Interactive educational tools and games.
-- **ForgeWeb** — A web platform for managing your NexCore and partner apps.
-- **HardEco (Minecraft Mod)** — A hardcore survival economy mod for Minecraft.
-
----
-
-## 🖥️ Website
-
-Visit us at: [https://nexcore.github.io](https://nexcore.github.io)
-
----
-
-## 📡 Social
-
-- Mastodon: [@stetup@mastodon.social](https://mastodon.social/@stetup)
-- Mastodon: [@stetup@c.im](https://c.im/@stetup)
+4. Warranty Disclaimer
+   - THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+     INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+     PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE
+     FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+     ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ---
 
-## 📄 License
+Summary (non-binding):  
+You can use it, fork it, and modify it — but you can't sell it.  
+Contribute back improvements through pull requests.
 
-This project and its sub-projects are released under the **Stetup License**.  
-See [`LICENSE`](LICENSE) for details.
-
-**Summary:**  
-No one is allowed to sell copies of NexCore software or its derivatives.  
-Forks and contributions must be submitted via pull requests.
-
----
-
-## 💬 Contact
-
-For inquiries, feedback, or collaborations:  
-📧 Email: BotForge@tutamail.com
-
----
-
-> **Built with ❤️ by Stetup (Jake) and the NexCore Technologies team.**
+Contact: BotForge@tutamail.com
